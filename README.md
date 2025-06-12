@@ -1,4 +1,4 @@
-# AUTests_iOS26
+# AUTests iOS 26
 This is a test repo for iOS 26 to observe changes in AudioKit & AVAudioEngine.
 
 In summary:
